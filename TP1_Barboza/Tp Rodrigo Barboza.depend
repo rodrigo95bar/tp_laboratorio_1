@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554436621 source:c:\users\brankita\desktop\labo-prog 1\tp1 - fecha --\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554434758 c:\users\brankita\desktop\labo-prog 1\tp1 - fecha --\funciones.h
+
+1554437172 source:c:\users\brankita\desktop\labo-prog 1\tp1 - fecha --\utn.c
+	<stdio.h>
+
