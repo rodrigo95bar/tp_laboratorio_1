@@ -118,5 +118,7 @@ int main()
         }
 
         }while(option != 10);
+
+    ll_deleteLinkedList(listaEmpleados);
     return 0;
 }
